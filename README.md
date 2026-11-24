@@ -1,7 +1,3 @@
-## Hi, I'm WaveHost77 👋
-
-Open-source contributor — [Reelsaw](https://github.com/osbytes/reelsaw) (i18n, transcription fixes), self-hosting enthusiast.
-
 ## 💸 Support my open-source work
 
 - **USDT (TRC-20 / Tron):** `TMPQgHy32XayuGzGhuyraiTFyQjYfv9dux`
